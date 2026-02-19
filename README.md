@@ -48,65 +48,24 @@ I specialize in building scalable backend systems using Django & Django REST Fra
 🚀 Featured Projects
 
 ⸻
-
 🧠 Routine Tracker – Habit Tracking Web App
 
 A productivity-focused Django application that helps users build discipline and consistency.
 
-✨ Features:
-	•	Secure user authentication
-	•	Habit creation & tracking
-	•	Dashboard visualization
-	•	Reminder system
-	•	Progress reports
-
-Tech Used: Django, SQLite, HTML, CSS, JavaScript
-
 ⸻
-
 🛒 Bean Bag Store – Full Stack E-commerce Platform
 
 A complete online shopping platform with secure payment integration.
 
-✨ Features:
-	•	Product listing & filtering
-	•	Cart & Wishlist
-	•	Order tracking
-	•	Admin order management
-	•	Razorpay payment gateway
-	•	Twilio OTP & Email authentication
-
-Tech Used: Django, AJAX, Razorpay, SQL, Bootstrap
-
 ⸻
-
 💬 Stack Overflow Clone – Q&A Platform (Django + DRF + React)
 
 A scalable REST API-based Q&A system.
 
-✨ Features:
-	•	Token-based authentication (JWT)
-	•	Question & answer posting
-	•	Upvoting system
-	•	Profile management
-	•	Clean REST API architecture
-
-Tech Used: Django, DRF, PostgreSQL, JWT, React
-
 ⸻
-
 💰 Expense Manager – REST API Based Finance Tracker
 
 Secure backend-driven financial management system.
-
-✨ Features:
-	•	Role-based permissions
-	•	Expense categorization
-	•	Advanced filtering & search
-	•	Reporting system
-	•	Token & Session authentication
-
-Tech Used: Django, DRF, PostgreSQL, React, Bootstrap
 
 ⸻
 
