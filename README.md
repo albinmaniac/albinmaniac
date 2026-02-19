@@ -1,10 +1,22 @@
 ## Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Albin Mathew </h1>
+<h3 align="center">🚀 Python Django Full Stack Developer | DRF | React | API Architect</h3>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=albinmaniac&show_icons=true" />
+  <img src="https://komarev.com/ghpvc/?username=albinmaniac&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
 </p>
-a passionate Python Django Full Stack Developer based in Kochi, Kerala 🇮🇳
+
+<p align="center">
+  <a href="mailto:albin07work@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/albinmathew-0761-"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/albinmaniac"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Python+Django+Developer;REST+API+Specialist;React+Frontend+Integrator;Backend+Architecture+Enthusiast;Always+Learning+New+Tech+🚀" />
+</p>
+
 
 I specialize in building scalable backend systems using Django & Django REST Framework, integrating secure authentication systems, payment gateways, and developing modern React-based frontends.
 
@@ -12,6 +24,24 @@ I specialize in building scalable backend systems using Django & Django REST Fra
 
 💡 Currently working as a Junior Python & React Intern, contributing to scalable Django applications with real-world deployment experience.
 
+<p>
+  <img src="https://skillicons.dev/icons?i=python,django,postgres,mysql,sqlite" />
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react" />
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=albinmaniac&show_icons=true&theme=tokyonight" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=albinmaniac&theme=tokyonight" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=albinmaniac&layout=compact&theme=tokyonight" />
+</p>
 
 
 🧠 Tech Stack
