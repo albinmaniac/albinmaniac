@@ -9,7 +9,7 @@ I specialize in building scalable backend systems using Django & Django REST Fra
 
 💡 Currently working as a Junior Python & React Intern, contributing to scalable Django applications with real-world deployment experience.
 
-⸻
+
 
 🧠 Tech Stack
 
@@ -43,7 +43,7 @@ I specialize in building scalable backend systems using Django & Django REST Fra
 	•	MVC Architecture
 	•	OOP & Functional Programming
 
-⸻
+
 
 🚀 Featured Projects
 
@@ -67,7 +67,7 @@ A scalable REST API-based Q&A system.
 
 Secure backend-driven financial management system.
 
-⸻
+
 
 💼 Professional Experience
 
@@ -95,7 +95,7 @@ Luminar Technolab, Kakkanad
 	•	Managed authentication systems
 	•	Applied OOP & MVC principles
 
-⸻
+
 
 🎓 Education
 
