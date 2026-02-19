@@ -1,6 +1,9 @@
 ## Hi there 👋
 
-Hi, I’m Albin Mathew,
+<h1 align="center">Hi 👋, I'm Albin Mathew </h1>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=albinmaniac&show_icons=true" />
+</p>
 a passionate Python Django Full Stack Developer based in Kochi, Kerala 🇮🇳
 
 I specialize in building scalable backend systems using Django & Django REST Framework, integrating secure authentication systems, payment gateways, and developing modern React-based frontends.
