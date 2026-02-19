@@ -35,9 +35,9 @@ I specialize in building scalable backend systems using Django & Django REST Fra
 </p>
 
 
-<!-- <p align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=albinmaniac&show_icons=true&theme=tokyonight" />
-</p> -->
+</p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=albinmaniac&theme=tokyonight" />
 </p>
